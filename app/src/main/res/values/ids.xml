@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ProgressBar" type="id" />
+    <item name="MainRecycler" type="id" />
+    <item name="item" type="id" />
+    <item name="TextView" type="id" />
+    <item name="TextView2" type="id" />
+    <item name="TextView3" type="id" />
+</resources>
